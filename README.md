@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm GianDS</h1>
-<h3 align="center">👨‍💻 I am a software development student, focused on Backend ⚙️ and Databases 📊. I’m passionate about building efficient solutions and learning new technologies to keep improving.</h3>
+<h3 align="center">👨‍💻 I am a software development student, focused on Backend ⚙️ . I’m passionate about building efficient solutions and learning new technologies to keep improving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gian-ds&label=Profile%20views&color=0e75b6&style=flat" alt="gian-ds" /> </p>
 
-- 🔧 Currently working on **Personal projects focused on Backend development ⚙️ and exploring databases 📊. Still learning and improving my skills with new technologies.**
+- 🔧 Currently working on **Personal projects focused on Backend development 📊. Still learning and improving my skills with new technologies.**
 
 - 🤝 Seeking collaboration on **Open-source projects related to Backend, APIs, or Database management. Always open to learning from others!**
 
-- 🔍 Looking for advice on **Best practices in Backend development, optimizing queries in databases, and improving project workflows.**
+- 🔍 Looking for advice on **Best practices in Backend development improving project workflows.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
